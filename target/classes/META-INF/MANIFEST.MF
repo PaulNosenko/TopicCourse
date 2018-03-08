@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: topic-course
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ￐ﾟ￐ﾰ￐ﾲ￐ﾻ￐ﾾ
+Implementation-Vendor-Id: test
+Build-Jdk: 1.8.0_60
+Implementation-URL: http://projects.spring.io/spring-boot/topic-course
+ /
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
